@@ -8,7 +8,7 @@ console.log (averageScore.toFixed(1));
 let studentName= "Oxana";
 let studentSurname = "Sidorova";
 let fullName = studentName + " " + studentSurname;
-console.log (fullName)
+console.log (fullName.slice(0,-13))
 console.log (`The average score of ${fullName} is ${averageScore.toFixed(1)}`)
 
 
