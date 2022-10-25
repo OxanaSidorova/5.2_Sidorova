@@ -81,7 +81,7 @@ Any numeric operand in the operation is converted into a 32 bit number. The resu
 | >>	|right shift|	5 >> 1	|0101 >> 1	|0010	 | 2|
 |>>>|	unsigned right shift|	5 >>> |1	0101 >>> |1	0010	|  2
 </details>
-```
+
 
 
 # Dynamic type
